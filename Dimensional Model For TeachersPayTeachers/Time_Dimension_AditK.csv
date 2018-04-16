@@ -1,0 +1,12 @@
+Time_Dimension,Date,MONTH,YEAR,DAY,QUARTER
+TD1,8/17/2017,8,2017,Thursday,3
+TD2,9/17/2017,9,2017,Sunday,3
+TD3,9/26/2017,9,2017,Tuesday,3
+TD4,10/1/2017,10,2017,Sunday,4
+TD5,12/12/2017,12,2017,Tuesday,4
+TD6,12/19/2017,12,2017,Tuesday,4
+TD7,1/21/2018,1,2018,Sunday,1
+TD8,1/29/2018,1,2018,Monday,1
+TD9,2/1/2018,2,2018,Thursday,1
+TD10,2/9/2018,2,2018,Friday,1
+null,null,null,null,null,null
