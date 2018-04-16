@@ -1,0 +1,11 @@
+Product_id,Seller_Username,Subject_Name,Resource_Type,Grade_level,Resource_Title,Resource_Desc,Teaching Duration,No. of Pages,File Type,File Size,Product_Type,Price,Bundle Discount
+P1,adit17,Economics,Workbooks,Adult Education,Econometrics Study,This is a workbook on Econommics for Adult Education,2 weeks,50,pdf,2 mb,Paid,5,0
+P2,pooja26,Civics,Professional Documents,Homeschool,Civics for Homeschool,You can buy this material if you want to study at home. It contains Professional Documents.,3 weeks,200,pdf,10 mb,Paid,8,0
+P3,adit17,Geography,Printables,Staff,Geographics for Staff,This Document will help the staff to teach students.,Life Long,100,word,5 mb,Paid,6,0
+P4,akshay08,Government,Outlines,Higher Education,Government Policies,This document consists of the basic governmental Policies that everyone need to know.,1 Months,50,pdf,4 mb,Paid,3,0
+P5,diksha18,Psychology,Videos,8th,Psychological Study Video Series,A video series of psychological studies.,2 Months,0,mp4,400 mb,Paid,15,2
+P6,prachi14,U.S. History,Posters,Adult Education,Historical Studies,A pictorial representation of historical studies,1 week,30,jpg,4 mb,Paid,4,0
+P7,diksha18,Business,Mini-Course,Not Grade Specific,Crashcourse on Business Studies,With the help of this anyone can have a basic grasp of how to do a business,1 Month,500,pdf,15 mb,Paid,12,1.5
+P8,akshay08,Character Education,Videos,5th,Behavioural Studies for students,A video series of which would help students develop behavioural skills,2 weeks,0,mp4,300 mb,Paid,20,3
+P9,adit17,Middle Ages,Lesson Plans (Individual),Not Grade Specific,Middle Age studies for All,An individual lesson plan for Middle age studies,1 week,300,pdf,12 mb,Paid,9,1.2
+P10,pooja26,Physics,Lectures,10th,Quantum Physics,Lectures for Quantum physics which would help to master in the field,2 Months,250,pdf,9 mb,Paid,12,0

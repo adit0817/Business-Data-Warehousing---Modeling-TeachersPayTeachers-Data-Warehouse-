@@ -1,0 +1,11 @@
+Transaction_id,Buyer_Username,No.of Items,Transaction Date,Total Cost,Payment Type,Promo Code
+T1,riddhi29,3,2017-08-17,19,Credit Card,KOENFHK
+T2,jenil14,2,2017-09-17,30,PayPal,N/A
+T3,devansh06,1,2017-09-26,5,Purchase Order,N/A
+T4,adit17,1,2017-10-01,8,Purchase Order,JDHEN45
+T5,vaibhav14,2,2017-12-12,16,Credit Card,N/A
+T6,akshay08,1,2017-12-19,12,Credit Card,N/A
+T7,diksha18,1,2018-01-21,17,Credit Card,KDIHR48
+T8,dharmang19,1,2018-01-29,8,PayPal,N/A
+T9,pooja26,1,2018-02-01,6,Credit Card,N/A
+T10,prachi14,1,2018-02-09,3,Credit Card,ORNDJL3
